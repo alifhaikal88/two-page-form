@@ -4,19 +4,19 @@
       "id": 1,
       "firstName": "Nabilla",
       "lastName": "Haslin",
-      "age": 22,
+      "age": 30,
       "address": "Presint 14",
-      "phoneNum": 60125278659,
-      "email": "nabillahaslin@gmail.com"
+      "phoneNum": 60122345809,
+      "email": "nabilla123@gmail.com"
     },
     {
       "id": 2,
       "firstName": "Nurill",
       "lastName": "Haslin",
-      "age": 23,
+      "age": 26,
       "address": "'Presint 8",
-      "phoneNum": 60129029882,
-      "email": "nurillhaslin@gmail.com"
+      "phoneNum": 60189012756,
+      "email": "nurill321@gmail.com"
     }
   ]
 }
