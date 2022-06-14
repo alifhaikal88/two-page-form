@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Nabilla",
+      "lastName": "Haslin",
+      "age": 22,
+      "address": "Presint 14",
+      "phoneNum": 60125278659,
+      "email": "nabillahaslin@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Nurill",
+      "lastName": "Haslin",
+      "age": 23,
+      "address": "'Presint 8",
+      "phoneNum": 60129029882,
+      "email": "nurillhaslin@gmail.com"
+    }
+  ]
+}
